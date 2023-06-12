@@ -16,7 +16,7 @@ Part 2 of Experimenting with classifying ebooks
 Introduction
 ============
 In the `first part <https://github.com/raul23/ebooks-classification-part1>`_, multiple classifiers were tested on three 
-datasets of ebooks text of different size. The classification task consisted in determining what 
+datasets of ebook text of different size. The classification task consisted in determining what 
 topic each ebook belong to (e.g. algorithms, magnetism, statistics).
 
 The ``SGDClassifier`` was the model that gave the best ...
