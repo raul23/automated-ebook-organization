@@ -19,4 +19,6 @@ In the `first part <https://github.com/raul23/ebooks-classification-part1>`_, mu
 datasets of ebook text of different size. The classification task consisted in determining what 
 topic each ebook belong to (e.g. algorithms, magnetism, statistics).
 
-The ``SGDClassifier`` was the model that gave the best ...
+The ``SGDClassifier`` was the model that gave the best overall performance on the medium and large datasets. Thus
+``SGDClassifier`` will be the model to used in this second part where it will be used to determine where to move a
+given ebook within the user's filesystem based on its topic.
