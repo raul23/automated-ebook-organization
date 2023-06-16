@@ -1,5 +1,5 @@
 ===============================================
-Part 2 of Experimenting with classifying ebooks
+Part 2 of Experimenting with Classifying Ebooks
 ===============================================
 `:information_source:` 
 
