@@ -1,6 +1,6 @@
-===============================================
-Part 2 of Experimenting with Classifying Ebooks
-===============================================
+==================
+Classifying Ebooks
+==================
 `:information_source:` 
 
  - This is a continuation from `part 1 <https://github.com/raul23/ebooks-classification-part1>`_ where
