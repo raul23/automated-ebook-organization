@@ -3,8 +3,8 @@ Classifying Ebooks
 ==================
 `:information_source:` 
 
- - This is a continuation from `part 1 <https://github.com/raul23/ebooks-classification-part1>`_ where
-   multiple models were tested for the classification of ebooks.
+ - This is a continuation from `part 1 <https://github.com/raul23/experiment-ebooks-classification>`_ where
+   multiple models were trained for the classification of ebooks.
  - In this second part, the best model from part 1 will be used to decide where ebooks should be moved within the user's filesystem 
    based on their main topic.
 
