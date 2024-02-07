@@ -3,10 +3,10 @@ Classifying Ebooks
 ==================
 `:information_source:` 
 
- - This is a continuation from `part 1 <https://github.com/raul23/experiment-ebooks-classification>`_ where
-   multiple models were trained for the classification of ebooks.
- - In this second part, the best model from part 1 will be used to decide where ebooks should be moved within the user's filesystem 
-   based on their main topic.
+ - This is a continuation from `part 1 <https://github.com/raul23/experiment-ebooks-classification>`_ 
+   where multiple models were trained for the classification of ebooks.
+ - In this second part, the best model from part 1 will be used to decide where ebooks should be moved 
+   within the user's filesystem based on their main topic.
 
 .. contents:: **Contents**
    :depth: 3
@@ -15,11 +15,12 @@ Classifying Ebooks
 
 Introduction
 ============
-In the `first part <https://github.com/raul23/ebooks-classification-part1>`_, multiple classifiers were tested on three 
-datasets of ebook text of different size. The classification task consisted in determining what 
-topic each ebook belong to (e.g. algorithms, magnetism, statistics).
+In the `first part <https://github.com/raul23/experiment-ebooks-classification>`_, multiple 
+classifiers were trained on three datasets of ebook text of different size. The 
+classification task consisted in determining what topic each ebook belong to (e.g. algorithms, 
+magnetism, statistics).
 
 The ``SGDClassifier`` was the model that gave the `best overall performance 
-<https://github.com/raul23/ebooks-classification-part1#conclusion>`_ on the medium-size and large datasets. Thus
-``SGDClassifier`` will be the chosen model in this second part where it will be used to determine where to move a
-given ebook within the user's filesystem based on its topic.
+<https://github.com/raul23/experiment-ebooks-classification#conclusion>`_ on the medium-size and 
+large datasets. Thus ``SGDClassifier`` will be the chosen model in this second part where it will 
+be used to determine where to move a given ebook within the user's filesystem based on its topic.
