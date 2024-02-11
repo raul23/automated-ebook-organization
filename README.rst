@@ -1,6 +1,6 @@
-====================================
-Part 2: Automated Ebook Organization
-====================================
+=======================================================
+Part 2: Automated Ebook Organization [Work-In-Progress]
+=======================================================
 `:information_source:` 
 
  - This is a continuation from `part 1 <https://github.com/raul23/experiment-ebooks-classification>`_ 
