@@ -1,5 +1,5 @@
 =======================================================
-Part 2: Automated Ebook Organization [Work-In-Progress]
+[Work-In-Progress] Part 2: Automated Ebook Organization
 =======================================================
 `:information_source:` 
 
